@@ -14,7 +14,7 @@ The Bandit challenge helps us get hands-on with Linux basics and sharpen our com
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220
 - When prompted, use the password: bandit0.
-2. Once logged in, look for a file named readme. It's right there in the home directory.
+2. Once logged in, look for a file named readme. It's right there in the home directory. ls command can be used to list directory contents of files.
    ```bash
    ls
 - The cat command is used to read its contents:
